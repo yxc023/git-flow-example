@@ -1,3 +1,4 @@
 this is a authentication file
 here is a hotfix!
 welcomeFeature修改了这里!
+readmeFeature 修改了这里!
