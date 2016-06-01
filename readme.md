@@ -8,6 +8,8 @@ git-flow介绍
 
 [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/)
 
+[中文版](http://www.ituring.com.cn/article/56870)
+
 [视频](https://vimeo.com/16018419)
 
 # 如何使用
